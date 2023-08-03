@@ -5,4 +5,4 @@
 
 ### [🔗 Github url](https://github.com/pantpramod/qr-code-component)
 
-### [🔗 Live site url](https://github.com/pantpramod/qr-code-component)
+### [🔗 Live site url](https://delicate-dasik-635725.netlify.app/)
